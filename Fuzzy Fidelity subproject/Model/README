@@ -1,3 +1,6 @@
-This folder contains the model: 
-The excel file: that sets up the age distribution, fertility rates, mortality rate, and other data needed to run the model. These data is specified under Database tab of the model. 
-LHS setup file: to run simulations under different parameters values
+This folder contains: 
+1) The model. AnyLogic code is written using AnyLogic version 8.7.9 but will run in newer versions. AnyLogic can be downloaded and installed at: 
+https://www.anylogic.com/downloads/. There is a free personal learning edition that can load the model and run the model at low agent counts. To run the model after installing AnyLogic, 
+Fuzzy_Fidelity_Microsimulation.alp in AnyLogic. Under Projects, right click Simulation:Main and run it. This will run under the parameter settings set in "Simulation". 
+2) The excel file: that sets up the age distribution, fertility rates, mortality rate, and other data needed to run the model. These data is specified under Database tab of the model. 
+3) LHS setup file: to run simulations under different parameters values. To run this, under projects, right click ParametersVariation: Main and run it. This needs the LHS file.
