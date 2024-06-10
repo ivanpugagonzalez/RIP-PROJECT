@@ -1,0 +1,3 @@
+This folder contains the model: 
+The excel file: that sets up the age distribution, fertility rates, mortality rate, and other data needed to run the model. These data is specified under Database tab of the model. 
+LHS setup file: to run simulations under different parameters values
