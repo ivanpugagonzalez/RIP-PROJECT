@@ -1,0 +1,3 @@
+Here you find one folder: The results of the optimization experiments. And several files: 
+1) A csv file containing the result of the model run under different model scenarios (see: https://doi.org/10.1163/2589742x-bja10012).
+2) An R-file used to reproduce the figures in the MS. 
